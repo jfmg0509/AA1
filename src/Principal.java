@@ -1,4 +1,4 @@
-//Juan Francisco Moráan
+//Juan Francisco Morán
 //25 de mayo 2025
 
 // Clase principal que contiene el método main
