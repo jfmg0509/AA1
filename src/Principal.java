@@ -5,7 +5,7 @@
 public class Principal {
 
     public static void main(String[] args) {
-        // Se crea un objeto de la clase CalculadoraFactorial
+        // Se crea un objeto de la clase CálculoFactorial
         CalculoFactorial calculadora = new CalculoFactorial();
 
         // Bucle para calcular y mostrar el factorial de los números del 1 al 13
