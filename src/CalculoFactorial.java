@@ -2,7 +2,7 @@
 //25 de mayo 2025
 //clase para calcular un factorial
 public class CalculoFactorial {
-    public long factorial(int numero){
+    public long factorialjfmg(int numero){
         long resultado = 1;
         for(int i= 1; i <= numero; i++) {
         //Bucle "for" que multiplica todos los números para el factorial
