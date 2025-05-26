@@ -1,11 +1,11 @@
+//Juan Francisco Morán
+//25 de mayo 2025
+//clase para calcular un factorial
 public class CalculoFactorial {
-    //Juan Francisco Moráan
-    //25 de mayo 2025
-    //clase para calcular un factorial
-    public long CalculoFactorial(int numero){
+    public long factorial(int numero){
         long resultado = 1;
+        for(int i= 1; i <= numero; i++) {
         //Bucle "for" que multiplica todos los números para el factorial
-        for (int = 1; i <= numero; i++){
             resultado *= i;
             }
         return resultado;
